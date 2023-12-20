@@ -7,6 +7,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Additional - valerkoll - Dec2023 */
+
+
+	.list-title {
+		color: rgb(100, 117, 173);
+		font-weight: bold;
+	}
+
+
+/* Additional - valerkoll - Dec2023 */
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3072,7 +3083,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		padding: 2em 5em 1em 5em ;
 		text-align: center;
 	}
 
@@ -3783,3 +3794,4 @@ input, select, textarea {
 			}
 
 		}
+
